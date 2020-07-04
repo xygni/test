@@ -1,2 +1,1 @@
-gitGet-ChildItem -Path  C:\temp -Recurse
-# s
+Get-ChildItem -Path  C:\temp -Recurse
